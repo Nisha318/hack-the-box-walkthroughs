@@ -26,6 +26,7 @@ A: php
 ## TASK 3
 
 Q: What is the name of the URL parameter which is used to load different language versions of the webpage?
+
 A: page
 
 ![htb-responder-3](https://github.com/user-attachments/assets/6b9bf0f2-a8c2-49bb-8b93-fbc8e437af78)
