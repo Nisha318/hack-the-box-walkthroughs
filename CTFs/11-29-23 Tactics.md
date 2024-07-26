@@ -1,0 +1,5 @@
+![htb-tactics-0](https://github.com/user-attachments/assets/cf9c9c93-f8c5-4230-882a-1850e4e2e47c)
+![htb-tactics-2](https://github.com/user-attachments/assets/281ccafb-aa72-4ab8-a43c-652e9e52f072)
+![htb-tactics-3](https://github.com/user-attachments/assets/81a0e13a-5ad6-474c-9e5b-eea1123d8003)
+![htb-tactics-4](https://github.com/user-attachments/assets/617c58a0-0437-4f14-bc3c-637d06d5a5f6)
+![htb-tactics-5](https://github.com/user-attachments/assets/79f0cab9-2412-4340-a478-2cc47c35e409)
