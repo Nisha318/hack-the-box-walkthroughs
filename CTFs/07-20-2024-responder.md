@@ -6,7 +6,18 @@ Room Link:  https://app.hackthebox.com/starting-point
 
 ![htb-responder-0](https://github.com/user-attachments/assets/f93b8360-8992-4992-bd37-c37414e2e6f7)
 
-- WinRM, Custom Applications, Protocols, XAMPP, SMB, Responder, PHP, Reconnaissance, Password Cracking, Hash Capture, Remote File Inclusion, Remote Code Execution
+- WinRM
+- Custom Applications
+- Protocols
+- XAMPP
+- SMB
+- Responder
+- PHP
+- Reconnaissance
+- Password Cracking
+- Hash Capture
+- Remote File Inclusion
+- Remote Code Execution
 
 
 ![htb-responder-4](https://github.com/user-attachments/assets/c1670118-394a-4a4d-9f95-192011a4956a)
