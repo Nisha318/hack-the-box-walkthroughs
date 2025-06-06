@@ -1,5 +1,8 @@
 # Hack The Box Walkthrough – RDP Enumeration
 
+![image](https://github.com/user-attachments/assets/df0a6441-909a-453c-bcce-53ef67a0e239)
+
+
 ## Task 1  
 **Question:** What does the 3-letter acronym RDP stand for?  
 **Answer:** `Remote Desktop Protocol`
